@@ -2,7 +2,7 @@
 
 Repository containing binary patches for [Ultimate Pinball (2002)](https://www.mobygames.com/game/45793/ultimate-pinball) and [Ultimate Pinball Gold (2003)](http://pc.gamespy.com/pc/ultimate-pinball-gold/) from [ValuSoft](https://www.mobygames.com/company/1828/valusoft-inc/).
 
-These should be applied before the patches contained in the [ValuSoftUltimatePinball](https://github.com/snaphat/ValuSoftUltimatePinball) repository.
+These should be applied before the patches contained in the [ValuSoftUltimatePinball](https://github.com/snaphat/ValuSoftUltimatePinballPatches) repository.
 
 # Unofficial Ultimate Pinball Gold patch v1.0a by Mok
 - Files needed
